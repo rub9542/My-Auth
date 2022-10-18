@@ -1,0 +1,4 @@
+export const env = {
+  REACT_APP_AUTH_API: process.env.REACT_APP_AUTH_API,
+  REACT_APP_PASSWORD_MASK_SECRET: process.env.REACT_APP_PASSWORD_MASK_SECRET,
+};
